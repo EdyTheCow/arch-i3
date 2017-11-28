@@ -24,3 +24,7 @@ Running:
 ```
 mpsyt
 ```
+Troubleshooting:
+```
+set player mpv
+```
