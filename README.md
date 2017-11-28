@@ -17,3 +17,10 @@ Installation:
 ```
 sudo pacman -S python-pip mpv
 ```
+```
+sudo pip3 install mps-youtube
+```
+Running:
+```
+mpsyt
+```
