@@ -28,3 +28,6 @@ Troubleshooting:
 ```
 set player mpv
 ```
+```
+sudo -H pip3 install --upgrade youtube-dl
+```
